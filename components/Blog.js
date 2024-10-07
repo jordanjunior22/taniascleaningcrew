@@ -1,9 +1,9 @@
 "use client";
 import React from 'react';
 import { motion } from 'framer-motion';
-import image1 from '@/public/image1.jpg';
-import image2 from '@/public/image2.jpg';
-import image3 from '@/public/image3.jpg';
+import image1 from '@/public/project1.jpg';
+import image2 from '@/public/project2.jpg';
+import image3 from '@/public/project3.jpg';
 
 const Blog = () => {
   const posts = [
