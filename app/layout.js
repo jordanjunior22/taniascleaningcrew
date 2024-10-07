@@ -2,7 +2,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 
 export const metadata = {
-  title: "Caroline Cleaning Service",
+  title: "Tanias Cleaning Crew",
   description: "Cleaning Service Company",
 };
 
